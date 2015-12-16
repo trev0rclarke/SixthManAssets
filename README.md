@@ -7,3 +7,6 @@ Android Application By:
 
 Jeff Bahns, Trevor Clarke, Bryan Penaloza
 
+<em>
+  App Repo: <a href="https://github.com/jeffbahns/pug">https://github.com/jeffbahns/pug</a>
+</em>
